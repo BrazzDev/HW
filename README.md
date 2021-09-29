@@ -1,2 +1,2 @@
 # Ola Mundo
- Primeiro repositório vs | Curso Git e GitHub
+ Primeiro repositório VS | Curso Git e GitHub
